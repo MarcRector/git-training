@@ -1,4 +1,0 @@
-#this is a build script
-
-do something
-do something else
